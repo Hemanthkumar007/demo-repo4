@@ -6,4 +6,4 @@ git
 
 New lines were added
 
-Git Tutorial from free-code campss
+Git Tutorial from free-code campsss
